@@ -1,0 +1,10 @@
+#### What git concepts were you struggling with prior to the GPS session?
+  I was not really struggling with git too much, though I did not remember off the top of my head a few commands that I used last week, like deleting a branch with `git branch -d branch-name`. Certainly the session helped reinforce commands I worked on last week.
+#### What concepts were clarified during the GPS?
+  Merging two local branches together (using `git merge master` while on my feature-branch). The session also helped to clarify the interaction between users on github, like having someone else merge my pull request (instead of doing it myself as we did last week working solo). I was able to see what the github page looked like while my pair was also interacting with it. I also learned from my pair and guide about certain best practices of git flow, like possibly having a pseudo-master developers branch as one more layer between an editor and the master. Also, perhaps most importantly, this GPS was very first pairing session EVARRR so I got to see what it was like and practice being a driver and navigator.
+#### What questions did you ask your pair and the guide?
+  For the merge-conflict release, I asked my guide about merging two local branches, since normally I am used to pushing a branch to the remote repository. I learned that while on my feature branch, I could use the command `git merge master`. I definitely asked another question as well.... and I cannot remember it.
+#### What still confuses you about git?
+  I cannot think of anything right now.
+#### How was your first experience of pairing in a GPS?
+  It went great. I think I was nervous coming in because I was not too sure what to expect or if I would be behind either my pair or where I needed to be. Catie was great to work with and Alex provided a couple of good tidbits of knowledge. I do not think I will be nervous for GPS moving forward, and much more excited. It was fun! And it was a good change of pace from doing all of the exercises solo and in silence last week.
