@@ -1,5 +1,6 @@
 ##Heading
-**This is BOLD!**
+*This is BOLD!*
+**Something Bold here**
 *Italics are fun*
 ```
 x = 0
